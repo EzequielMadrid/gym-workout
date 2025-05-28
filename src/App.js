@@ -13,7 +13,7 @@ function App() {
       minHeight="100vh"
       display="flex"
       flexDirection="column"
-      m="auto"
+      ml="0px"
       sx={{ width: { xl: "1488px" } }}
     >
       <Navbar />

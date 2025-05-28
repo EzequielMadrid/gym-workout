@@ -21,16 +21,17 @@ const SearchWorkouts = ({ bodyPart, setBodyPart }) => {
     <Stack alignItems="center" mt="37px" justifyContent="center" p="20px">
       <Typography
         fontWeight={700}
-        sx={{ fontSize: { lg: "44px", xs: "30px" } }}
+        sx={{ fontSize: { lg: "32px", xs: "20px" } }}
         mb="49px"
-        padding="4px"
+        paddingX="16px"
         textAlign="center"
         borderRadius="8px"
         fontFamily="monospace"
         bgcolor="#4B352A"
         color="#E9A319"
       >
-        Discovering <br /> Each Workout
+        Find you
+        <br /> Exercise
       </Typography>
       <Box sx={{ position: "relative", width: "100%", p: "20px" }}>
         <XScrollbar

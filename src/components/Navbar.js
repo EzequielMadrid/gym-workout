@@ -20,14 +20,14 @@ const Navbar = () => {
         <img
           src={Logo}
           alt="gym-logo"
-          style={{ width: "100px", height: "100px", margin: "0px 20px" }}
+          style={{ width: "80px", height: "80px", margin: "0px 20px" }}
         />
       </Link>
       <Stack
         direction="row"
         gap="40px"
         fontFamily="monospace"
-        fontSize="24px"
+        fontSize="16px"
         alignItems="flex-end"
       >
         <Link
