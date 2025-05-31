@@ -29,7 +29,7 @@ const Footer = () => {
         Copyright © 2084 Ezequiel Madrid
       </Typography>
       <Link
-        href="https://github.com/ezequielMadrid"
+        href="https://github.com/EzequielMadrid/gym-workout"
         target="_blank"
         rel="noopener"
         underline="hover"
