@@ -52,7 +52,7 @@ const Navbar = () => {
           }}
           className="link-2"
         >
-          Extra Info
+          info+
         </a>
       </Stack>
     </Stack>
