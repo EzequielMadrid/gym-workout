@@ -19,7 +19,7 @@ const Footer = () => {
     >
       <Typography
         variant="h5"
-        sx={{ fontSize: { lg: "22px", xs: "20px" } }}
+        sx={{ fontSize: { lg: "16px", xs: "10px" } }}
         mt="10px"
         textAlign="center"
         pb="10px"
@@ -34,7 +34,7 @@ const Footer = () => {
         rel="noopener"
         underline="hover"
         sx={{
-          fontSize: { lg: "20px", xs: "18px" },
+          fontSize: { lg: "16px", xs: "10x" },
           fontFamily: "monospace",
           color: "#A86523",
         }}
