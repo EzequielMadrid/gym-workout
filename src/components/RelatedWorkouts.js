@@ -7,7 +7,7 @@ const RelatedWorkouts = ({ targetMuscleWorkouts, equipmentWorkouts }) => {
   return (
     <Box sx={{ mt: { lg: "100px", xs: "0px" } }}>
       <Typography
-        sx={{ fontSize: { lg: "44px", xs: "25px" }, ml: "20px" }}
+        sx={{ fontSize: { lg: "44px", xs: "16pxpx" }, ml: "20px" }}
         fontWeight={700}
         color="#000"
         mb="33px"
@@ -27,7 +27,7 @@ const RelatedWorkouts = ({ targetMuscleWorkouts, equipmentWorkouts }) => {
       </Stack>
       <Typography
         sx={{
-          fontSize: { lg: "44px", xs: "25px" },
+          fontSize: { lg: "44px", xs: "16px" },
           ml: "20px",
           mt: { lg: "100px", xs: "60px" },
         }}

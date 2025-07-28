@@ -8,19 +8,18 @@ const WorkoutVideos = ({ workoutVideos, name }) => {
     return <Loader />;
 
   return (
-    <Box sx={{ marginTop: { lg: "203px", xs: "20px" } }} p="20px">
+    <Box sx={{ marginTop: { lg: "203px", xs: "16px" } }} p="20px">
       <Typography
-        sx={{ fontSize: { lg: "44px", xs: "25px" } }}
+        sx={{ fontSize: { lg: "44px", xs: "16px" } }}
         mb="33px"
         fontWeight={700}
         fontFamily="monospace"
         color="#000"
       >
-        Watch{" "}
+        More about{" "}
         <span style={{ color: "#FF2625", textTransform: "capitalize" }}>
           {name}
         </span>{" "}
-        workout videos
       </Typography>
       <Stack
         sx={{ flexDirection: { lg: "row" }, gap: { lg: "110px", xs: "0px" } }}
