@@ -2,9 +2,9 @@
 
 ## My FITNESS APP with RAPID API
 
----
+👉 [Explore more about Rapid API here](https://rapidapi.com/hub)
 
-👉 [Explore more](https://rapidapi.com/hub)
+---
 
 ### 🔗 APIs Used:
 
@@ -22,3 +22,5 @@
 | Screen 3                          | Screen 4                          |
 | --------------------------------- | --------------------------------- |
 | ![Screen 3](./public/screen3.png) | ![Screen 4](./public/screen4.png) |
+
+---
