@@ -67,7 +67,7 @@ const Detail = ({ workoutDetail }) => {
             </Button>
             <Typography
               textTransform="capitalize"
-              sx={{ fontSize: { lg: "30px", xs: "20px" } }}
+              sx={{ fontSize: { lg: "30px", xs: "18px" } }}
             >
               {item.name}
             </Typography>
