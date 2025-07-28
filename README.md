@@ -8,8 +8,8 @@
 
 ### 🔗 APIs Used:
 
-- 🎥 [YouTube Search & Download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/playground/)
 - 🏋️ [ExerciseDB](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/playground/)
+- 🎥 [YouTube Search & Download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/playground/)
 
 ---
 
